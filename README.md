@@ -21,3 +21,6 @@ Algorithm:
     6)Fit the data in the model using fit()(The training process will run for a fixed number of iterations through the dataset called                                                   epochs, that we must specify using the nepochs argument)
     7)Set the number of instances that are evaluated before a weight update in the network is performed, called the batch size
     8)Used model.predict() to predict the class variables. 
+
+
+Under update! please be patient
